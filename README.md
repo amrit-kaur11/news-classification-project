@@ -83,9 +83,3 @@ The model and evaluation metrics will be saved automatically.
 - Implemented text preprocessing and TF-IDF feature extraction
 - Trained and evaluated a multi-class classification model
 - Saved model artifacts and metrics for reproducibility
-
-## GitHub Repository
-(Add your GitHub link here)
-
-## Video Explanation
-(Add your video link here)
